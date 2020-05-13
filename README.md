@@ -3,8 +3,9 @@
 # PokéWeather APP
 
 ## Demonstration
-![Farmers Market Finder Demo](assets/images/the_pokeweather_api.gif)
+![PokeWeatherApp Demo](assets/images/the_pokeweather_api.gif)
 
+## [link to Poke Weather App](https://benmulhollandpsl.github.io/project-1/)
 ## What problem does the PokéWeather App solve?
 When playing Pokemon Go, it can be difficult to correlate real-world weather forecasts with the in-game weather categories. In addition, the game doesn’t tell you which weather conditions boost which Pokemon types.
 
